@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-send": "^5.0.0",
+    "pdf-merge": "^1.2.0",
+    "puppeteer": "^1.19.0",
+    "puppeteer-core": "^1.19.0",
+    "shell-escape": "^0.2.0",
+    "tmp": "^0.1.0"
+  }
+}
