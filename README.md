@@ -15,7 +15,7 @@ puppeteer文档：https://github.com/GoogleChrome/puppeteer/tree/v1.19.0
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### development
 ```
 node app.js
 ```
