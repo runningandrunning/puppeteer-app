@@ -1,4 +1,15 @@
-##### puppeteer
+### 将网页导出为pdf，支持单个导出和批量导出
+
+### Project setup
+```
+yarn install
+```
+
+### development
+```
+node app.js
+```
+
 
 有什么用？
 * 生成截图和PDF
@@ -9,14 +20,4 @@
 
 puppeteer文档：https://github.com/GoogleChrome/puppeteer/tree/v1.19.0
 
-
-## Project setup
-```
-yarn install
-```
-
-### development
-```
-node app.js
-```
 
