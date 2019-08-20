@@ -8,3 +8,15 @@
 * Test Chrome Extensions.
 
 puppeteer文档：https://github.com/GoogleChrome/puppeteer/tree/v1.19.0
+
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+node app.js
+```
+
